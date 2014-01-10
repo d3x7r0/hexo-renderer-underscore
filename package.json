@@ -1,0 +1,18 @@
+{
+  "name": "hexo-renderer-underscore",
+  "version": "0.0.1",
+  "description": "Underscore templates renderer for Hexo",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "renderer",
+    "underscore",
+    "templates"
+  ],
+  "author": "Luis Nabais",
+  "license": "MIT",
+  "dependencies": {
+    "hexo": "~2.4.2",
+    "underscore": "~1.5.2"
+  }
+}
